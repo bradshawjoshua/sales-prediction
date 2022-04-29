@@ -1,2 +1,2 @@
 # sales-predictions
-Simulating sales predictions for a store.
+Simulating sales predictions for a company.
